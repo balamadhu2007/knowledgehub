@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/knowledgehub/static/css/main.e6c13ad2.css",
+    "main.js": "/knowledgehub/static/js/main.ec7b63a5.js",
+    "static/js/787.59f5f2cd.chunk.js": "/knowledgehub/static/js/787.59f5f2cd.chunk.js",
+    "index.html": "/knowledgehub/index.html",
+    "main.e6c13ad2.css.map": "/knowledgehub/static/css/main.e6c13ad2.css.map",
+    "main.ec7b63a5.js.map": "/knowledgehub/static/js/main.ec7b63a5.js.map",
+    "787.59f5f2cd.chunk.js.map": "/knowledgehub/static/js/787.59f5f2cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ec7b63a5.js"
+  ]
+}
